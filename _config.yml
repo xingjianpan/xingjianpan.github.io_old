@@ -1,0 +1,13 @@
+# Site settings
+title: Xingjian's Thoughts
+email: xingjianpan at 163.com
+description: "Random thoughts"
+baseurl: ""
+url: "http://xingjian.me"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: pygments
+
