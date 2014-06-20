@@ -10,7 +10,7 @@ categories: management
 
 ### 文化地图
 
-![以色列和俄罗斯的管理文化差异](file:///Users/developer/Documents/trunk/jekyll_blog/xingjianpan.github.io/_posts/culture.jpg)
+![以色列和俄罗斯的管理文化差异](https://raw.githubusercontent.com/xingjianpan/xingjianpan.github.io/master/_posts/culture.jpg)
 
 1.沟通	
 	* 低语境（Low-context Cultures）中，沟通是明确、简单、直接、准确的，听懂表面意思即可；为垢通通能够清晰，人们喜欢重复表达和书面交流。
