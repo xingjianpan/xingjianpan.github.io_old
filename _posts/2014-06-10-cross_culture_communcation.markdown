@@ -12,10 +12,12 @@ categories: management
 
 ![以色列和俄罗斯的管理文化差异](https://raw.githubusercontent.com/xingjianpan/xingjianpan.github.io/master/_posts/culture.jpg)
 
-1.沟通	
+
+
+1. 沟通	
 	* 低语境（Low-context Cultures）中，沟通是明确、简单、直接、准确的，听懂表面意思即可；为垢通通能够清晰，人们喜欢重复表达和书面交流。
 	* 高语境（High-Context Cultures）中，沟通是复杂、微秒、间接的，听话往往需要听音；书面沟通较少，多为口头交流；听者要透过说话者的遣词用句猜测其潜台词。
-	
+		
 2. 评价。
 	* 直接批评。
 	* 间接批评。
