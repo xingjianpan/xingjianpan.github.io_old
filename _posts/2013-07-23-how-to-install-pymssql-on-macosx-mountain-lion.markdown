@@ -3,6 +3,7 @@ layout: post
 title: How to install pymssql on Mac OS X Mountain Lion?
 date: 2013-07-23 21:16:36
 categories: python
+author: Xingjian Pan
 
 ---
 ## Problem

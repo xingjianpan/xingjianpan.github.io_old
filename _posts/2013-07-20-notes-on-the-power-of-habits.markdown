@@ -3,6 +3,7 @@ layout: post
 title: Note on the power of habits
 date: 2013-07-20 21:22:30
 categories: reading
+author: Xingjian Pan
 
 ---
 ## What this book about?

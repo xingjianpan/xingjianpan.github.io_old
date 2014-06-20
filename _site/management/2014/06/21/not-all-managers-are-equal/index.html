@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>How to install pymssql on Mac OS X Mountain Lion?</title>
+    <title>大公司里，都叫Manager，有些举足轻重，有些无足重轻</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Random thoughts">
-    <link rel="canonical" href="http://xingjian.me/python/2013/07/24/how-to-install-pymssql-on-macosx-mountain-lion/">
+    <link rel="canonical" href="http://xingjian.me/management/2014/06/21/not-all-managers-are-equal/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -57,115 +57,23 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>How to install pymssql on Mac OS X Mountain Lion?</h1>
-    <p class="meta">Jul 24, 2013 • Xingjian Pan</p>
+    <h1>大公司里，都叫Manager，有些举足轻重，有些无足重轻</h1>
+    <p class="meta">Jun 21, 2014 • Xingjian Pan</p>
   </header>
 
   <article class="post-content">
-  <h2 id="problem">Problem</h2>
-<p>### When trying to install pymssql using pip, I got below error message</p>
+  <p>当然这并没有什么奇怪的，而且原因可能有很多。</p>
 
-<pre><code>	_mssql.c:257:10: fatal error: 'sqlfront.h' file not found 
-</code></pre>
+<p>其中一个很基本的因素是同为Manager，都算是管理者，但管理的内容可能是大不相同的。</p>
 
-<h2 id="solution">Solution</h2>
+<p>一种Manager管的是<strong>流程</strong>。有些公司流程是很复杂的，往往现有的流程是经过多年的进化演变而来的。其中积累了很多有才之人的智慧。一个好的流程能够从各个方面支持业务，而且往往是以最有效的方式。举个例子，一个新人从进入这个流程开始，一点一点成长到其所在岗位的专家，都可以囊括在流程之内。这样的流程是每个企业都在花非大量人力物力去建立的。而且一旦建立起来，就能持续的发挥作用，并且在实践中不断改进。企业中对这一流程最熟悉的人，往往被任命为这一个流程的经理。</p>
 
-<h3 id="pre-requeists">Pre-requeists:</h3>
-<ol>
-  <li>Cython (pip install Cython)</li>
-  <li>FreeTDS
-    <ul>
-      <li>Download latest stable release from <a href="http://www.freetds.org">here</a></li>
-      <li>do the install</li>
-    </ul>
+<p>另一种Manager管理的是<strong>业务</strong>。而往往，这也意味着管理客户和与客户的关系。客户关系相对流程而言，难以做到标准化和统一化，而且有很多个人因素在里面。所以业务是难以流程化管理的。</p>
 
-    <p><code>command</code></p>
+<p>对于第一种，流程的价值大于人的价值，甚至人可以是不重要的。极端的情况下，任何一个人放到那个流程里，都能行。对于第二种，流程往往是走个过场，重要的事情往往不是在流程之内发生的。而人的作用则极为重要。</p>
 
-    <pre><code> ./configure --prefix=/usr/local/freetds --enable-msdblib
- make
- make install
-</code></pre>
-  </li>
-  <li>open setup.py</li>
-</ol>
+<p>所以，管理流程的Manager， 可能管着一个小的团队，或者一个大的团队，但所做的往往只是维护流程本身，使其更加有效，并跟得上业务发展的步伐。而管理业务的Manager，因其与业务联系紧密，而且往往难以取代，所以公司会花更多的钱在他们身上，自然这些人在企业里的位置更加重要。</p>
 
-<p>Find </p>
-
-<div class="highlight"><pre><code class="python"><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">platform</span> <span class="o">==</span> <span class="s">&#39;darwin&#39;</span><span class="p">:</span>
-    	<span class="n">fink</span> <span class="o">=</span> <span class="s">&#39;/sw/&#39;</span>
-    	<span class="k">if</span> <span class="n">osp</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">fink</span><span class="p">):</span>
-        	<span class="n">include_dirs</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">fink</span> <span class="o">+</span> <span class="s">&#39;include&#39;</span><span class="p">)</span>
-        	<span class="n">library_dirs</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">fink</span> <span class="o">+</span> <span class="s">&#39;lib&#39;</span><span class="p">)</span></code></pre></div>
-
-<p>Change to </p>
-
-<div class="highlight"><pre><code class="python"><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">platform</span> <span class="o">==</span> <span class="s">&#39;darwin&#39;</span><span class="p">:</span>
-	<span class="c">#fink = &#39;/sw/&#39;</span>
-	<span class="c">#if osp.exists(fink):</span>
-		<span class="c">#include_dirs.insert(0, fink + &#39;include&#39;)</span>
-		<span class="c">#library_dirs.insert(0, fink + &#39;lib&#39;)</span></code></pre></div>
-
-<p>4.still in setup.py</p>
-
-<p>look for</p>
-
-<div class="highlight"><pre><code class="python"><span class="k">if</span> <span class="n">osp</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="s">&#39;/opt/local&#39;</span><span class="p">):</span>
-    <span class="c"># some mac ports paths</span>
-    <span class="n">include_dirs</span> <span class="o">+=</span> <span class="p">[</span>
-        <span class="s">&#39;/opt/local/include&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/opt/local/include/freetds&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/opt/local/freetds/include&#39;</span>
-    <span class="p">]</span>   
-    <span class="n">library_dirs</span> <span class="o">+=</span> <span class="p">[</span>
-        <span class="s">&#39;/opt/local/lib&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/opt/local/lib/freetds&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/opt/local/freetds/lib&#39;</span>
-    <span class="p">]</span></code></pre></div>
-
-<p>change to</p>
-
-<div class="highlight"><pre><code class="python"><span class="k">if</span> <span class="n">osp</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="s">&#39;/usr/local&#39;</span><span class="p">):</span>
-    <span class="c"># some mac ports paths</span>
-    <span class="n">include_dirs</span> <span class="o">+=</span> <span class="p">[</span>
-        <span class="s">&#39;/usr/local/include&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/usr/local/include/freetds&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/usr/local/freetds/include&#39;</span>
-    <span class="p">]</span>   
-    <span class="n">library_dirs</span> <span class="o">+=</span> <span class="p">[</span>
-        <span class="s">&#39;/usr/local/lib&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/usr/local/lib/freetds&#39;</span><span class="p">,</span>
-        <span class="s">&#39;/usr/local/freetds/lib&#39;</span>
-    <span class="p">]</span></code></pre></div>
-
-<p>change <em>opt</em> to <em>usr</em> as we installed FreeTDS under /usr/local/freetds</p>
-
-<h3 id="download-pymmsql-and-install">download pymmsql and install</h3>
-<ol>
-  <li>Download pymssql from its official site.</li>
-  <li>
-    <p>Do the install, in pymssql’s folder,type</p>
-
-    <pre><code> python setup.py install
-</code></pre>
-  </li>
-  <li>Done!!</li>
-</ol>
-
-<h2 id="references">References</h2>
-<ol>
-  <li><a href="http://blog.sina.com.cn/s/blog_62b2318d0101gucr.html">blog</a></li>
-  <li><a href="https://groups.google.com/forum/#!topic/pymssql/Z0HuJpJGAfo">Issue Discussion</a></li>
-</ol>
-
-<h2 id="resouces">Resouces</h2>
-<ol>
-  <li><a href="http://code.google.com/p/pymssql/downloads/list">pymssql</a>	</li>
-</ol>
-
-<h2 id="alternative-methods">Alternative methods</h2>
-<ol>
-  <li><a href="https://github.com/blackbass1988/pymssql-macos-lion">pymssql-macosx-lion</a></li>
-</ol>
 
   </article>
 

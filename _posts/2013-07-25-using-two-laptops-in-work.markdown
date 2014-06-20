@@ -4,6 +4,8 @@ layout: post
 title: Using two laptops in work
 date: 2013-07-25 21:16:36
 categories: productivity
+authro: Xingjian Pan
+
 
 ---
 
