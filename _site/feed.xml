@@ -271,7 +271,8 @@
       <item>
         <title>How to install pymssql on Mac OS X Mountain Lion?</title>
         <description>&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
-&lt;p&gt;### When trying to install pymssql using pip, I got below error message&lt;/p&gt;
+
+&lt;h3 id=&quot;when-trying-to-install-pymssql-using-pip-i-got-below-error-message&quot;&gt;When trying to install pymssql using pip, I got below error message&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;	_mssql.c:257:10: fatal error: &#39;sqlfront.h&#39; file not found 
 &lt;/code&gt;&lt;/pre&gt;

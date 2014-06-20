@@ -7,6 +7,7 @@ author: Xingjian Pan
 
 ---
 ## Problem
+
 ### When trying to install pymssql using pip, I got below error message
 
 		_mssql.c:257:10: fatal error: 'sqlfront.h' file not found 
