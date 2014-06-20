@@ -2,7 +2,7 @@
 
 layout: post
 title: 大公司里，都叫Manager，有些举足轻重，有些无足重轻
-date: 2014-6-20 16:22:30
+date: 2014-4-10 16:22:30
 categories: management
 author: Xingjian Pan
 
