@@ -7,6 +7,8 @@ author: Xingjian Pan
 
 ---
 
+## (译文)推倒彭博金融终端机？
+
 ### [Can the Bloomberg Terminal be “Toppled”?](http://mattturck.com/2014/03/19/can-the-bloomberg-terminal-be-toppled/)
 
 ##### 原著 MATT TURCK 翻译 [XINGJIAN PAN](http://xingjian.me)
