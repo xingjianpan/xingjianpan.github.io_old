@@ -1,19 +1,16 @@
 ---
 layout: post
-title: 推倒彭博金融终端机？
+title: (译文)推倒彭博金融终端机？
 date: 2014-6-21 21:22:30
 categories: Financial Data
 author: Xingjian Pan
 
 ---
 
-
-
-
-## 推倒彭博金融终端机？
 ### [Can the Bloomberg Terminal be “Toppled”?](http://mattturck.com/2014/03/19/can-the-bloomberg-terminal-be-toppled/)
 
-##### 原著 MATT TURCK 翻译 [XINGJIAN PAN](xingjian.me)
+##### 原著 MATT TURCK 翻译 [XINGJIAN PAN](http://xingjian.me)
+
 ##### 转载请注明出处
 
 
@@ -58,15 +55,3 @@ author: Xingjian Pan
 3. 众包数据。 一种全新的收集金融数据的方式已经产生了。 [Estimize](http://www.estimize.com/)通过众包收集公司预估信息（estimates）. Premise通过全球手机用户众包收集宏观数据信息。 [Quandl](http://www.quandl.com/)， 一个金融数据搜索引擎，通过网路爬虫、众包和社区的贡献，已经积累了超过8百万条金融和宏观经济数据。 一旦建成这样的数据平台， 是否可以预测，将来可以通过第三方开发者在此基础上开发分析和可视化工具， 产生一个足够可靠的由众包支持的“金融终端机”？ 起码对非核心业务和实时数据业务，这养的终端是足够好的？
 
 4. 大数据“洞察力”：显然收集数据是为了从中获取可以做决策的信号， 而这也正是创业公司们着力开发的机会。 [Dataminr](http://www.dataminr.com/)（针对华尔街的社交数据分析）， [Kensho](http://www.kensho.com/)（正在努力“把智能助手革命带到金融领域”）。就市场定位而言，尚不清楚这些技术公司在多大程度上与彭博金融终端存在竞争（比如，彭博也在积极的投入社交数据的研发），或者有多大的潜力成为竞争对手。 在目前的情况下，现有的金融平台已经形成坚固的堡垒，同时占领着利润最丰厚的那部分市场， 所以对于创业者和VC而言，他们最大的问题是如何将这些新业务扩大（scale）成为十亿美元的业务。 总体而言我认为会有越来越多针对金融数据的创业公司出现， 其中一些可能取得重大的成功。 我很期待能够看到这个市场的发展。
-
-
-
-
-
-
-
-* Can the Bloomberg Terminal be “Toppled”?(http://mattturck.com/2014/03/19/can-the-bloomberg-terminal-be-toppled/)
-* The race to Topple Bloomberg(http://www.institutionalinvestor.com/Article/3303623/Banking-and-Capital-Markets-Corporations/The-Race-to-Topple-Bloomberg.html#.U6PF2JSSyvQ)
-* Bloomberg Snooping Got You Spooked? Here Are 5 Alternatives To The Bloomberg Terminal(http://www.ibtimes.com/bloomberg-snooping-got-you-spooked-here-are-5-alternatives-bloomberg-terminal-1254419)
-* This is how much a Bloomberg terminal costs(http://qz.com/84961/this-is-how-much-a-bloomberg-terminal-costs/)
-* Why Thomson Reuters and Markit could give Bloomberg a run for its money(http://qz.com/132573/why-thomson-reuters-and-markit-could-give-bloomberg-a-run-for-its-money/)
