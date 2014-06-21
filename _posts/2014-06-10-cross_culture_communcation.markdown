@@ -3,6 +3,7 @@ layout: post
 title: 跨文化管理，即使对于成熟的大公司也是难题。
 date: 2014-6-10 22:22:30
 categories: management
+authro: Xingjian Pan
 
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: 公司高层开始谈企业文化的重要性，可能是企业组织变革的前奏
 date: 2014-6-20 16:22:30
 categories: management
+author:Xingjian Pan
 
 ---
 
