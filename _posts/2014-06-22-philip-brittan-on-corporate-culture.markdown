@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Philip Brittan On Corporate Culture
-date: 2014-06-26 21:16:36
-categories: python
+title: Philip Brittan谈企业文化的重要性
+date: 2014-06-22 21:16:36
+categories: management
 author: Xingjian Pan
 
 ---
