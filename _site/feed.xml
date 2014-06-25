@@ -156,7 +156,7 @@
       </item>
     
       <item>
-        <title>Philip Brittan On Corporate Culture</title>
+        <title>Philip Brittan谈企业文化的重要性</title>
         <description>&lt;p&gt;Philip Brittan(&lt;a href=&quot;http://www.linkedin.com/in/pbrittan&quot;&gt;linkedin&lt;/a&gt;) 是汤森路透的CTO和公司旗舰产品Eikon的负责人。他最近在公司内网上发布了一系列文章谈对企业文化的想法，引发了广泛的讨论。这里摘录一些其文章的要点和一些不错的评论。&lt;/p&gt;
 
 &lt;ul&gt;
@@ -384,6 +384,38 @@
       </item>
     
       <item>
+        <title>有些职业梯子（Career Ladder）看起来在那，其实并不在那</title>
+        <description>&lt;p&gt;所谓职业梯子（Career  Ladder &lt;a href=&quot;http://en.wikipedia.org/wiki/Career_ladder&quot;&gt;wiki&lt;/a&gt;）指的是一个人在职场上的上升通道和升值空间。 职业梯子为员工指明了发展道路和前进方向。尤其是大公司，往往会有比较明确的分工，同时对每个工作职位的发展路径也都会有很清晰的规划。即使没有这些，一个公司的组织框架图往往也就是每个职位的发展路线图。 一些职位，可能确实可以按着组织图或路线图前进，一直做到高层（典型的如销售）。&lt;/p&gt;
+
+&lt;p&gt;但可能更普遍的一种情况是，这些梯子只是一种虚构的梯子。就好像三根错开放置的火柴，侧面看仿佛是&lt;strong&gt;同一条&lt;/strong&gt;自上而下的长火柴，但正面看，则其实是&lt;strong&gt;三跟不同&lt;/strong&gt;的火柴。换到职场上，一个看起来连续的职业梯子，可能是几条错开放置的梯子。当一个人到达其中一个梯子的顶点时，抬起头看到的不是另一个梯子的尾巴，而是__Nothing__.&lt;/p&gt;
+
+&lt;p&gt;为什么会这样，原因可能有很多，比如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一些职位（如高管）好像都来自某几个国家，而你的国家不是其中之一。&lt;/li&gt;
+  &lt;li&gt;一些职位只放在特定的地区，而你正好在另一些地区。&lt;/li&gt;
+  &lt;li&gt;一些职位需要特殊的教育经历或工作背景，而你没有。&lt;/li&gt;
+  &lt;li&gt;一些职位就那么多，已经没有空位了。&lt;/li&gt;
+  &lt;li&gt;。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;那么如果遇到这种&lt;strong&gt;断裂&lt;/strong&gt;的职业梯子，该怎么做？我个人的观点是&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;首先，在职业规划时，不要根据组织图进行规划，而是根据个人的能力、兴趣进行规划。&lt;/li&gt;
+  &lt;li&gt;第二，发展多方面才能，成为复合型人才，增大梯子的选择面。&lt;/li&gt;
+  &lt;li&gt;第三，发展自己的职业网路，在遇到职业瓶颈时可以及时转变。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;可以肯定的说，依赖职业梯子规划自己职业的时代已经一去不复返了。如果不想有一天面对这种情况，就要积极主动地规划自己的职业发展方向、不断充实和完善各方面的技能&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Mar 2014 18:22:30 +0800</pubDate>
+        <link>http://xingjian.me/career/2014/03/27/be-aware-of-broekn-career-ladder/</link>
+        <guid isPermaLink="true">http://xingjian.me/career/2014/03/27/be-aware-of-broekn-career-ladder/</guid>
+      </item>
+    
+      <item>
         <title>Note on Project Management Lite</title>
         <description>&lt;p&gt;The book caught my attention when I was looking for a book that can get me started with just enough project management skills. I was working on an internal project at that time. After comparing a few books on project management, I think this one is the best one with &lt;strong&gt;just enough&lt;/strong&gt; things i need to know to get through.&lt;/p&gt;
 
@@ -583,46 +615,6 @@
         <pubDate>Mon, 05 Aug 2013 00:00:00 +0800</pubDate>
         <link>http://xingjian.me/reading/2013/08/05/notes-on-project-management-lite/</link>
         <guid isPermaLink="true">http://xingjian.me/reading/2013/08/05/notes-on-project-management-lite/</guid>
-      </item>
-    
-      <item>
-        <title>Using two laptops in work</title>
-        <description>&lt;p&gt;I have recently switched to using two laptops in work, and I feel this is a great move, I am able to be more focused, more productive, and less time wasted on keep everything in sync.&lt;/p&gt;
-
-&lt;h3 id=&quot;whats-my-situation&quot;&gt;What’s my situation&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;My work laptop is a Dell Latitude E6410, I have been using it for 3 years and it recently get upgraded to Win 7. It’s a standard business laptop. It can do the work, but it feels quite slow and there is not much joy using it. &lt;/li&gt;
-  &lt;li&gt;I spent quite a lot time on writing code in python and I am the admin of two internal websites which are built in a linux box. I am more comfortable using linux-like systems instead of Windows.&lt;/li&gt;
-  &lt;li&gt;However, I also need to use a lot of Microsoft Softwares, like Excel, Powerpoint, Outlook, sharepoints, Webex,  Microsoft SQL server, etc. &lt;/li&gt;
-  &lt;li&gt;I can not simply moving to MacOS or Linux, because all my colleagues are using Windows as their primary system.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;what-problems-i-have&quot;&gt;What problems I have&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Windows is not very suitable for developing websites with python. Many libraries that can be easily installed on linux may require a lot of small fixes or workaround to get it work on Windows.&lt;/li&gt;
-  &lt;li&gt;It’s hard to switch tools, like IDE.&lt;/li&gt;
-  &lt;li&gt;Working on MBP is easier for developing, but it’s difficult to use business softwares.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;my-solutions&quot;&gt;My solutions&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Bring my MacBook Pro to work.&lt;/li&gt;
-  &lt;li&gt;Use company laptop for mails, and necessary business softwares.&lt;/li&gt;
-  &lt;li&gt;Everything else on macbook pro. including coding, writing things.&lt;/li&gt;
-  &lt;li&gt;Use &lt;a href=&quot;http://yun.baidu.com&quot;&gt;Baidu Yun&lt;/a&gt; to keep in sync.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;feeling-after-using-two-laptops-for-a-week&quot;&gt;Feeling after using two laptops for a week&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;I feel more focused and more productive.&lt;/li&gt;
-  &lt;li&gt;I spent less time worrying about syncing files.&lt;/li&gt;
-  &lt;li&gt;I spent less time to fix things that doesn’t work on windows.&lt;/li&gt;
-  &lt;li&gt;Bonus:I looks cooler cause I am the only one using a Mac in the office :)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Fri, 26 Jul 2013 05:16:36 +0800</pubDate>
-        <link>http://xingjian.me/productivity/2013/07/26/using-two-laptops-in-work/</link>
-        <guid isPermaLink="true">http://xingjian.me/productivity/2013/07/26/using-two-laptops-in-work/</guid>
       </item>
     
   </channel>
