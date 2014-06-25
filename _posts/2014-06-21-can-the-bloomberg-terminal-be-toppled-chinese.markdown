@@ -7,7 +7,7 @@ author: Xingjian Pan
 
 ---
 
-## (译文)推倒彭博金融终端机？
+[更新]本文已发表在36Kr，[链接](http://www.36kr.com/p/213072.html)。
 
 ### [Can the Bloomberg Terminal be “Toppled”?](http://mattturck.com/2014/03/19/can-the-bloomberg-terminal-be-toppled/)
 
