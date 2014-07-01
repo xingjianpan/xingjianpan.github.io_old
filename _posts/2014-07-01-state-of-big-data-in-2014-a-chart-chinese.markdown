@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大数据行业现状
+title: (译文)大数据行业信息图以及一些思考
 date: 2014-7-1 14:16:36
 categories: data
 author: Xingjian Pan
@@ -29,7 +29,7 @@ author: Xingjian Pan
 对于一些领域，公司的数量之多显然已经达到了一张地图所能容纳的上限。 我相信还有一些不错的公司我们没能纳入进来，也许是我们没有发现，也许是因为地方不够了， 我在此表示非常抱歉， 同时我也希望大家在评论里对于应当纳入那些公司提出反馈和意见。
 
 
-**尚处在早期阶段**： 总体而言，这个市场还处在发展的早期阶段。 过去几年， 一些被看好的公司失败了（如[Drawn to Scale](http://drawntoscale.com/)），一些公司的创业者提前退出了[^提前退出了] (例如： [Precog](http://precog.com/) [^Precog], Prior Knowledge, [Lucky Sort](http://luckysort.com/)[^Lucky Sort], [Rapleaf](https://www.rapleaf.com/), Nodeable[^Nodeable], [Karmasphere](http://www.karmasphere.com/)[^Karmasphere], 等 )，还有一些的结局稍好(例如: [Infochimps](http://www.infochimps.com/)[^Infochimps], Causata[^Causata], Streambase[^Streambase], ParAccel[^ParAccel], [Aspera](http://asperasoft.com/)[^Aspera], GNIP, BlueFin labs, [BlueKai](http://bluekai.com/)[^BlueKai])。
+**尚处在早期阶段**： 总体而言，这个市场还处在发展的早期阶段。 过去几年， 一些被看好的公司失败了（如[Drawn to Scale](http://drawntoscale.com/)），一些公司的创业者提前退出了[^提前退出了] (例如： [Precog](http://precog.com/) [^Precog], Prior Knowledge, [Lucky Sort](http://luckysort.com/)[^LuckySort], [Rapleaf](https://www.rapleaf.com/), Nodeable[^Nodeable], [Karmasphere](http://www.karmasphere.com/)[^Karmasphere], 等 )，还有一些的结局稍好(例如: [Infochimps](http://www.infochimps.com/)[^Infochimps], Causata[^Causata], Streambase[^Streambase], ParAccel[^ParAccel], [Aspera](http://asperasoft.com/)[^Aspera], GNIP, BlueFin labs, [BlueKai](http://bluekai.com/)[^BlueKai])。
 
 与此同时，一些公司看起来正越做越大，并获得大笔惊人的风投注资（比如， MongoDB 已经融资超过2.3亿美元， Palantir融资近9亿美元， Cloudera近10亿美元[^Cloudera] 。一些大公司正积极出击进行并购（Oracle收购BlueKai， IBM收购[Cloudant](https://cloudant.com/)[^Cloudant]），但是总体而言，多数公司离成功实现IPO和投资者功成身退还差的很远（虽然 [Splunk](http://www.splunk.com/?r=header)[^Splunk] 和 [Tableau](http://www.tableausoftware.com/)[^Tableau]做到了）。 在很多类别，创业公司和大公司互相竞争，但并没有出现市场领导者。
 
@@ -55,8 +55,7 @@ author: Xingjian Pan
 [^GNIP]:[Twitter Acquires Longtime Partner And Social Data Provider Gnip](http://techcrunch.com/2014/04/15/twitter-acquires-longtime-partner-and-social-data-analytics-provider-gnip/)
 [^提前退出了]:原文为 a number saw early exits
 [^Precog]:[RichRelevance Acquires Precog To Add Large-Scale Analytics Engine To E-Commerce Personalization Platform](http://techcrunch.com/2013/08/14/richrelevance-acquires-precog-to-add-large-scale-analytics-engine-to-e-commerce-personalization-platform/)
-
-[^Lucky Sort]:[Twitter Acquires Big Data Visualization Startup Lucky Sort, Service To Shutter In Months Ahead](http://techcrunch.com/2013/05/13/twitter-acquires-big-data-visualization-startup-lucky-sort-service-to-shutter-in-months-ahead/)
+[^LuckySort]:[Twitter Acquires Big Data Visualization Startup Lucky Sort, Service To Shutter In Months Ahead](http://techcrunch.com/2013/05/13/twitter-acquires-big-data-visualization-startup-lucky-sort-service-to-shutter-in-months-ahead/)
 [^Nodeable]:[Appcelerator Acquires Nodeable to Provide Next Generation Real-Time Data Insights](http://www.appcelerator.com/press-releases/appcelerator-acquires-nodeable-real-time-mobile-analytics/)
 [^Karmasphere]:[Hadoop analytics startup Karmasphere sells itself to FICO](http://gigaom.com/2014/04/17/hadoop-analytics-startup-karmasphere-sells-itself-to-fico/)
 [^Infochimps]:[CSC buys Infochimps and its big data platform](http://gigaom.com/2013/08/07/csc-buys-infochimps-and-its-big-data-platform/)
