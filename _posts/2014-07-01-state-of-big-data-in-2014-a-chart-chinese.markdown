@@ -31,9 +31,9 @@ author: Xingjian Pan
 对于一些领域，公司的数量之多显然已经达到了一张地图所能容纳的上限。 我相信还有一些不错的公司我们没能纳入进来，也许是我们没有发现，也许是因为地方不够了， 我在此表示非常抱歉， 同时我也希望大家在评论里对于应当纳入那些公司提出反馈和意见。
 
 
-**尚处在早期阶段**： 总体而言，这个市场还处在发展的早期阶段。 过去几年， 一些被看好的公司失败了（如[Drawn to Scale](http://drawntoscale.com/)），一些公司的创业者提前退出了[^提前退出了] (例如： [Precog](http://precog.com/) [^Precog], Prior Knowledge, [Lucky Sort](http://luckysort.com/)[^LuckySort], [Rapleaf](https://www.rapleaf.com/), Nodeable[^Nodeable], [Karmasphere](http://www.karmasphere.com/)[^Karmasphere], 等 )，还有一些的结局稍好(例如: [Infochimps](http://www.infochimps.com/)[^Infochimps], Causata[^Causata], Streambase[^Streambase], ParAccel[^ParAccel], [Aspera](http://asperasoft.com/)[^Aspera], GNIP, BlueFin labs, [BlueKai](http://bluekai.com/)[^BlueKai])。
+**尚处在早期阶段**： 总体而言，这个市场还处在发展的早期阶段。 过去几年， 一些被看好的公司失败了（如[Drawn to Scale](http://drawntoscale.com/)），一些公司的创业者提前退出了(例如： [Precog](http://precog.com/) [^Precog], Prior Knowledge, [Lucky Sort](http://luckysort.com/)[^LuckySort], [Rapleaf](https://www.rapleaf.com/), Nodeable[^Nodeable], [Karmasphere](http://www.karmasphere.com/)[^Karmasphere], 等 )，还有一些的结局稍好(例如: [Infochimps](http://www.infochimps.com/)[^Infochimps], Causata[^Causata], Streambase[^Streambase], ParAccel[^ParAccel], [Aspera](http://asperasoft.com/)[^Aspera], GNIP, BlueFin labs, [BlueKai](http://bluekai.com/)[^BlueKai])。
 
-与此同时，一些公司看起来正越做越大，并获得大笔惊人的风投注资（比如， MongoDB 已经融资超过2.3亿美元， Palantir融资近9亿美元， Cloudera近10亿美元[^Cloudera] 。一些大公司正积极出击进行并购（Oracle收购BlueKai， IBM收购[Cloudant](https://cloudant.com/)[^Cloudant]），但是总体而言，多数公司离成功实现IPO和投资者功成身退还差的很远（虽然 [Splunk](http://www.splunk.com/?r=header)[^Splunk] 和 [Tableau](http://www.tableausoftware.com/)[^Tableau]做到了）。 在很多类别，创业公司和大公司互相竞争，但并没有出现市场领导者。
+与此同时，一些公司看起来正越做越大，并获得大笔惊人的风投注资（比如， [MongoDB](http://www.mongodb.org/) 已经融资超过2.3亿美元， [Palantir](http://www.palantir.com/)融资近9亿美元， [Cloudera](http://www.cloudera.com/content/cloudera/en/home.html)近10亿美元[^Cloudera] 。一些大公司正积极出击进行并购（Oracle收购BlueKai， IBM收购[Cloudant](https://cloudant.com/)[^Cloudant]），但是总体而言，多数公司离成功实现IPO和投资者功成身退还差的很远（虽然 [Splunk](http://www.splunk.com/?r=header)[^Splunk] 和 [Tableau](http://www.tableausoftware.com/)[^Tableau]做到了）。 在很多类别，创业公司和大公司互相竞争，但并没有出现市场领导者。
 
 
 **市场宣传遭遇现实**:在经历这些年狂轰滥炸的市场宣传之后，大数据还是焦点么？未来几年，也许大数据不再是媒体的热门，但对于大数据市场而言却是至关重要的， 因为企业将要开始把大数据项目从试验转而全面的部署实施。 虽然这意味着一些大数据提供商的利润会迅猛增长，但同时这些项目也将成为大数据是否能带来它所宣传的价值的一块试金石。与此同时，随着“物联网”行业的迅速崛起，数据将会如潮水般加速增长，进一步推高市场对大数据技术的需求。
@@ -44,7 +44,7 @@ author: Xingjian Pan
 
 **分析工具**：从创业公司和VC投资的数量来看，这一领域最为活跃。从excel表格式的用户界面，到时间轴动画和3D动画， 创业公司提供各种各样的数据分析工具和用户界面，而不同的客户也确实有不同的需求，所以这一领域大概依然有足够的发展空间。推广产品的策略也不尽相同 --- 有些创业公司更针对于数据科学家，这群人目前不多但增长迅速。 另一些则正好相反，他们销售自动化的解决方案给一般商业用户，完全忽略数据科学家的存在。
 
-**大数据应用**： 正如之前预测的，大数据缓慢但的确朝着应用层面发展。 这张图列出了一些令人兴奋的创业公司 -- 他们本质上都是基于大数据技术和工具（当然我们无法把所有的相关公司都在这里列出来）。一些公司提供横向应用[^横向应用] --- 如基于大数据的营销系统，客户关系管理系统和欺诈甄别解决方案。 金融业和广告科技业一直是大数据推广的领导者和最早的拥趸，甚至早于大数据被称作大数据。慢慢的，大数据推广到各行各业，如医疗行业和生化行业（特别是基因研究领域）和教育行业。现在才刚刚开始。
+**大数据应用**： 正如之前预测的，大数据缓慢但的确朝着应用层面发展。 这张图列出了一些令人兴奋的创业公司 -- 他们本质上都是基于大数据技术和工具（当然我们无法把所有的相关公司都在这里列出来）。一些公司提供横向应用[^Horizontal] --- 如基于大数据的营销系统，客户关系管理系统和欺诈甄别解决方案。 金融业和广告科技业一直是大数据推广的领导者和最早的拥趸，甚至早于大数据被称作大数据。慢慢的，大数据推广到各行各业，如医疗行业和生化行业（特别是基因研究领域）和教育行业。现在才刚刚开始。
 
 *特别感谢我在FirstMark的同事Sutian Dong，她为这张图做了很多的基础工作。以及我在彭博Beta的前同事Shivon Zilis，他对这张图的之前版本做了巨大的贡献。*
 
@@ -55,7 +55,6 @@ author: Xingjian Pan
 
 [^BlueFin]: [TWITTER ACQUIRES SOCIAL TV ANALYTICS BLUEFIN LABS](http://www.fastcompany.com/3005470/twitter-acquires-social-tv-analytics-bluefin-labs)
 [^GNIP]:[Twitter Acquires Longtime Partner And Social Data Provider Gnip](http://techcrunch.com/2014/04/15/twitter-acquires-longtime-partner-and-social-data-analytics-provider-gnip/)
-[^提前退出了]:原文为 a number saw early exits
 [^Precog]:[RichRelevance Acquires Precog To Add Large-Scale Analytics Engine To E-Commerce Personalization Platform](http://techcrunch.com/2013/08/14/richrelevance-acquires-precog-to-add-large-scale-analytics-engine-to-e-commerce-personalization-platform/)
 [^LuckySort]:[Twitter Acquires Big Data Visualization Startup Lucky Sort, Service To Shutter In Months Ahead](http://techcrunch.com/2013/05/13/twitter-acquires-big-data-visualization-startup-lucky-sort-service-to-shutter-in-months-ahead/)
 [^Nodeable]:[Appcelerator Acquires Nodeable to Provide Next Generation Real-Time Data Insights](http://www.appcelerator.com/press-releases/appcelerator-acquires-nodeable-real-time-mobile-analytics/)
@@ -71,4 +70,4 @@ author: Xingjian Pan
 [^Tableau]:[Big Data Analytics Specialist Tableau Software Raises $254M In IPO, Shares Close 64% Up; Marketo’s First Day Up 78% To $23.10](http://techcrunch.com/2013/05/17/big-data-visualization-goes-public-tableau-software-raises-254m-as-shares-pop-58-while-marketo-raises-85m/)
 [^Splunk]:[Splunk Prices Initial Public Offering](http://www.splunk.com/view/splunk-prices-initial-public-offering/SP-CAAAGW7)
 [^HDFS]:[What is the Hadoop Distributed File System (HDFS)?](http://www-01.ibm.com/software/data/infosphere/hadoop/hdfs/)
-[^横向应用]:指广泛适合各个行业的应用，[wiki](http://en.wikipedia.org/wiki/Horizontal_market_software
+[^Horizontal]:指广泛适合各个行业的应用，[wiki](http://en.wikipedia.org/wiki/Horizontal_market_software)
