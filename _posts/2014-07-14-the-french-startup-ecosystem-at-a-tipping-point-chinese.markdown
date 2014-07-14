@@ -2,7 +2,7 @@
 
 layout: post
 title: (译文)法国初创公司生态系统：处在引爆点上
-date: 2014-07-9 9:16:36
+date: 2014-07-14 9:16:36
 categories: startup
 author: Xingjian Pan
 
