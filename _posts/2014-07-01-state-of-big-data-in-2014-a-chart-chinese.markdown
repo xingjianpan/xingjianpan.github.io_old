@@ -8,6 +8,10 @@ author: Xingjian Pan
 ---
 
 
+[更新]本文已发表在36Kr，[链接](http://www.36kr.com/p/213424.html)。
+
+
+
 ### [The State Of Big Data in 2014: a Chart](http://mattturck.com/2014/05/11/the-state-of-big-data-in-2014-a-chart/)
 
 ##### 原著 MATT TURCK 翻译 [XINGJIAN PAN](http://xingjian.me)
